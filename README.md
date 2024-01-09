@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-An attempt to create a Summary of Long and logs of Product Reviews.    
+An attempt to create a Summary of Long and logs of Product Reviews. For now, I have removed the scrapper for Amazon, Flipkart, and Croma for collecting the given Product because the Chrome driver is not stable and is not running on the new update, it will be added once the ChromeDriver gets a stable version release.
 The provided Model and Steps give the following output(For understanding) of the given terrible review.    
 
 
@@ -60,6 +60,8 @@ Modules Required:
 - SpaCy
 - Pyabsa
 - Python
+- Selenium
+
 
 
 
